@@ -48,4 +48,11 @@
         "website": "https://xaviercollege.edu.np/",
         "logo": "https://xaviercollege.edu.np/upload/images/company_profile/1667712802.png"
     },
+     {
+        "id": 8,
+        "name": "Uniglobe Secondary School",
+        "location": "Kamladi, Kathmandu",
+        "website": "uniglobecollege.edu.np/",
+        "logo": "https://uniglobecollege.edu.np/wp-content/uploads/2024/05/Image-3.png"
+    },
 ]
